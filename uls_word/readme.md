@@ -7,6 +7,6 @@ Ornitish usuli:
 3. ulssetup.bat ni qosh chekisiz(ijra qilisiz). tamam.
 4. WORD ni ijra qilip, ADDIN degen tizimlikke qaraysiz. Towendikidek korunse normal ornitilghan bolidu.
 
-<p align="center">
-  <img src="./screenshot1.png" width="350"/>
+<p>
+  <img src="./screenshot1.png"/>
 </p>
