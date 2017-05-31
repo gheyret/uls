@@ -6,3 +6,4 @@ Ornitish usuli:
 2. Ijra boluwatqan barliq WORD ni axirlashturisiz.
 3. ulssetup.bat ni qosh chekisiz(ijra qilisiz). tamam.
 4. WORD ni ijra qilip, ADDIN degen tizimlikke qaraysiz. Towendikidek korunse normal ornitilghan bolidu.
+​[a link](https://github.com/gheyret/uls/edit/master/uls_word/screenshot1.png)
