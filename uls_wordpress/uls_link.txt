@@ -1,0 +1,1 @@
+﻿<div style="direction: ltr; float: right; padding-right: 60px; padding-top: 6px; text-transform: capitalize;"> <a href="?uls=us">&#1059;&#1081;&#1171;&#1091;&#1088;&#1095;&#1241;</a> | <a href="?uls=ul">&#85;&#121;&#103;&#104;&#117;&#114;&#99;&#104;&#101;</a> | <a href="?uls=ut">Uyğurçe</a> | <a href="?uls=uu">&#1574;&#1735;&#1610;&#1594;&#1735;&#1585;&#1670;&#1749;</a> </div>
