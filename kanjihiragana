@@ -1,0 +1,8 @@
+Kanji --> hiragana convertor for Excel
+
+Sub hiragana()
+    For i = 1 To 605
+        Cells(i, 4) = StrConv(Application.GetPhonetic(Cells(i, 1)), vbHiragana)
+    Next i
+End Sub
+
