@@ -37,7 +37,7 @@ function baghla() {
             $_SESSION['uls'] = "sl";
         }
         else {
-            $_SESSION['uls'] = "ee";
+            $_SESSION['uls'] = "ee";  /* Esli Yeziiq*/
         }        
     } 
 }
