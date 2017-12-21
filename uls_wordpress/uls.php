@@ -35,12 +35,11 @@ function baghla() {
             $_SESSION['uls'] = "tu";
         } else if ($_GET['uls'] == 'sl') {
             $_SESSION['uls'] = "sl";
-        } else {
-            $_SESSION['uls'] = "uu";
         }
-    } else {
-        $_SESSION['uls'] = "uu";
-    }
+        else {
+            $_SESSION['uls'] = "ee";
+        }        
+    } 
 }
 
 function ayladur($out) {
