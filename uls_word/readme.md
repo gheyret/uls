@@ -1,4 +1,4 @@
-Bu Microsoft Wordning qisturmisi bolup, Uyghurche Word höjjitini biwasite aylanduridu. esliki höjjetning formatigha tesir yetmeydu.
+Bu Microsoft Wordning qisturmisi bolup, Uyghurche Word höjjitini biwasite aylanduridu. eslidiki höjjetning formatigha tesir yetmeydu.
 UEY(Uyghur Ereb yéziqi), ULY(Uyghur Latin Yeiziqi), USY(Uyghur slawyan(kiril) yéziqi) arisida oz ara almashturush élip baralaydu.
 
 Ornitish usuli:
