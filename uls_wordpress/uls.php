@@ -593,7 +593,7 @@ function U2SToken(&$token) {
         $pos++;
         switch ($Herp) {
             case 'ئ':
-                $Herp = '';
+                $Herp = 'ъ';
                 break;
             case 'ا':
                 $Herp = 'а';
@@ -693,7 +693,7 @@ function U2SToken(&$token) {
                 break;
             case 'ي':
                 $Herp = 'й';
-                if ($pos <= $size) {
+/*                if ($pos <= $size) {
                     $Herp = mb_substr($token, $pos, 1);
                     if ($Herp == 'ا') {
                         $Herp = 'я';
@@ -704,7 +704,7 @@ function U2SToken(&$token) {
                     } else {
                         $Herp = 'й';
                     }
-                }
+                }*/
                 break;
             default:
                 $Herp = U2LSBelge($Herp);
@@ -1264,7 +1264,7 @@ function S2L(&$contents) {
                 $Herp = 'h';
                 break;
             case 'Һ': /* Һ */
-            case 'ҳ': /* ҳ */
+            case 'Ҳ': /* ҳ */
                 $Herp = 'H';
                 break;
             case 'в': /* в */
