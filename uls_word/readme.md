@@ -11,3 +11,8 @@ Ornitish usuli:
   <img src="./screenshot1.png"/>
 </p>
 
+Töwendikisi Eslidiki USY da yézilghan tékistni ULY we UEY gha aylandurghandiki körünüsh.(Eslidiki höjjet pichimi(formati) shu péti saqlinip qalidu).
+Xemit Hemrayefning «Ghulja Yoli» namliq esiridin.
+<p>
+  <img src="./sample.png"/>
+</p>
