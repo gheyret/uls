@@ -17,3 +17,8 @@ https://github.com/gheyret/uls/tree/master/uls_js
 diki *.html  höjjetlirini körüng.
 
 
+Buni ishletken tor béketler:
+
+- https://www.uyghur-archive.com/orkhun.html
+- https://uyghurpost.com/
+
